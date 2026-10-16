@@ -353,11 +353,11 @@ To maintain a stable shared codebase:
 
 **Project:** SAGAR — Subsidy & Grant Administration Portal
 
-**Repository:** [Subsidy-Application](https://github.com/KasturiBag21/Subsity-Application)
+**Repository:** [Subsidy-Application](https://github.com/mayank3-cloud/Subsidy-Grant-Application)
 
 **Developed as a collaborative academic project.**
 
-Mahesh and Akashya
+Mahesh,Akashya and Mayank
 
 ---
 
@@ -366,7 +366,7 @@ Mahesh and Akashya
 
 **SAGAR — From application to accountable fund utilization.**
 
-[Live Website](https://sagar-subsidy-platform.onrender.com) · [GitHub Repository](https://github.com/KasturiBag21/Subsity-Grant-Application)
+[Live Website](https://sagar-subsidy-platform.onrender.com) · [GitHub Repository](https://github.com/mayank3-cloud/Subsidy-Grant-Application)
 
 ---
 
